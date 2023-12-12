@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gitpod.io/#https://github.com/omkarcloud/google-maps-scraper">
+  <a href="https://gitpod.io/new/#https://github.com/updee/gmaps-scraper">
     <img alt="Open in Gitpod" src="https://gitpod.io/button/open-in-gitpod.svg" />
   </a>
 </p>
